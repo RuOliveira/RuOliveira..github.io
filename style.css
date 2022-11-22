@@ -373,6 +373,11 @@ p.skills {
  color: #6495ED;
 }
 
+.alt-cor {
+  color: #af4035;
+  font-weight: 300;
+}
+
 a:hover {
  color: #FFFFFF;
  font-weight: 600; 
@@ -389,12 +394,13 @@ a:hover {
   position: -webkit-sticky;
   position: sticky;
   top: 90vh;
-  color: #000000;
+  color: #FFFFFF;
   text-decoration: none;
-  background-color: #FFFFFF;
+  background-color: #560319;
   padding: 10px;
   border-radius: 10px;
   box-shadow: 2px 2px 4px #000000;
+  font-weight: 300;
 }
 
 .scroll-top__link:hover {
