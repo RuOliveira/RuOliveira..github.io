@@ -394,9 +394,9 @@ a:hover {
   position: -webkit-sticky;
   position: sticky;
   top: 90vh;
-  color: #FFFFFF;
+  color: #000000;
   text-decoration: none;
-  background-color: #560319;
+  background-color: #ffdd99;
   padding: 10px;
   border-radius: 10px;
   box-shadow: 2px 2px 4px #000000;
